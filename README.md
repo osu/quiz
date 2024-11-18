@@ -16,6 +16,13 @@ The Basic Quiz Application is a simple yet interactive desktop application built
 
 ---
 
+## **Demo**
+Watch a quick demo of the application:
+
+[![Demo Video](https://img.youtube.com/vi/b5_Xrl0sDsk/0.jpg)](https://youtu.be/b5_Xrl0sDsk)
+
+---
+
 ## **Technology Stack**
 - **Programming Language**: C#
 - **Framework**: .NET 8.0 Windows Forms
@@ -73,19 +80,7 @@ The Basic Quiz Application is a simple yet interactive desktop application built
 - **Offline Mode**: Enable offline functionality with local data storage.
 - **Improved Security**: Encrypt user credentials and quiz data.
 
----
-
-## **Screenshots**
-### **Registration Form**
-_Description: User registration form with `joes.png` as the background._
-![Registration Form](./screenshots/registration_form.png)
-
-### **Quiz Form**
-_Description: Quiz form with `apd.jpg` as the background._
-![Quiz Form](./screenshots/quiz_form.png)
-
----
-
+--- 
 ## **License**
 This project is licensed under the [MIT License](LICENSE).
 
@@ -95,3 +90,7 @@ This project is licensed under the [MIT License](LICENSE).
 - **SendGrid** for email integration.
 - **OpenAI** for future AI enhancements.
 - **Microsoft** for .NET framework and tooling.
+
+--- 
+
+This embedded demo will be clickable and will redirect to the YouTube video. Let me know if you’d like to make any further changes!
