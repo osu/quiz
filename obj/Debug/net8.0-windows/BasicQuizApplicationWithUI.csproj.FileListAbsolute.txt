@@ -1,0 +1,141 @@
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\obj\Debug\net8.0-windows\BasicQuizApplicationWithUI.QuizForm.resources
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\obj\Debug\net8.0-windows\BasicQuizApplicationWithUI.csproj.GenerateResource.cache
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\obj\Debug\net8.0-windows\BasicQuizApplicationWithUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\obj\Debug\net8.0-windows\BasicQuizApplicationWithUI.AssemblyInfoInputs.cache
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\obj\Debug\net8.0-windows\BasicQuizApplicationWithUI.AssemblyInfo.cs
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\obj\Debug\net8.0-windows\BasicQuizApplicationWithUI.csproj.CoreCompileInputs.cache
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\BasicQuizApplicationWithUI.exe
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\BasicQuizApplicationWithUI.deps.json
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\BasicQuizApplicationWithUI.runtimeconfig.json
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\BasicQuizApplicationWithUI.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\BasicQuizApplicationWithUI.pdb
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\obj\Debug\net8.0-windows\BasicQuizApplicationWithUI.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\obj\Debug\net8.0-windows\refint\BasicQuizApplicationWithUI.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\obj\Debug\net8.0-windows\BasicQuizApplicationWithUI.pdb
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\obj\Debug\net8.0-windows\BasicQuizApplicationWithUI.genruntimeconfig.cache
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\obj\Debug\net8.0-windows\ref\BasicQuizApplicationWithUI.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\obj\Debug\net8.0-windows\BasicQuizApplicationWithUI.RegistrationForm.resources
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\BasicQuizApplicationWithUI.dll.config
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\obj\Debug\net8.0-windows\BasicQuizApplicationWithUI.csproj.AssemblyReference.cache
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\obj\Debug\net8.0-windows\BasicQui.D5CE4814.Up2Date
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Visual Code Studio\BasicQuizApplicationWithUI\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\BasicQuizApplicationWithUI.exe
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\BasicQuizApplicationWithUI.dll.config
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\BasicQuizApplicationWithUI.deps.json
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\BasicQuizApplicationWithUI.runtimeconfig.json
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\BasicQuizApplicationWithUI.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\BasicQuizApplicationWithUI.pdb
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\obj\Debug\net8.0-windows\BasicQuizApplicationWithUI.csproj.AssemblyReference.cache
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\obj\Debug\net8.0-windows\BasicQuizApplicationWithUI.QuizForm.resources
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\obj\Debug\net8.0-windows\BasicQuizApplicationWithUI.RegistrationForm.resources
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\obj\Debug\net8.0-windows\BasicQuizApplicationWithUI.csproj.GenerateResource.cache
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\obj\Debug\net8.0-windows\BasicQuizApplicationWithUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\obj\Debug\net8.0-windows\BasicQuizApplicationWithUI.AssemblyInfoInputs.cache
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\obj\Debug\net8.0-windows\BasicQuizApplicationWithUI.AssemblyInfo.cs
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\obj\Debug\net8.0-windows\BasicQuizApplicationWithUI.csproj.CoreCompileInputs.cache
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\obj\Debug\net8.0-windows\BasicQui.D5CE4814.Up2Date
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\obj\Debug\net8.0-windows\BasicQuizApplicationWithUI.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\obj\Debug\net8.0-windows\refint\BasicQuizApplicationWithUI.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\obj\Debug\net8.0-windows\BasicQuizApplicationWithUI.pdb
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\obj\Debug\net8.0-windows\BasicQuizApplicationWithUI.genruntimeconfig.cache
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\obj\Debug\net8.0-windows\ref\BasicQuizApplicationWithUI.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\selenium-manager\linux\selenium-manager
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\selenium-manager\macos\selenium-manager
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\selenium-manager\windows\selenium-manager.exe
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\WebDriver.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\SeleniumExtras.WaitHelpers.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\noth\Documents\BasicQuizApplicationWithUI\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
